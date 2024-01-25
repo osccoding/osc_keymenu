@@ -9,3 +9,6 @@ Config.Keys = {
     { title = 'Inventory', description = 'F2', icon = 'fa fa-archive', iconAnimation = 'spin' }, 
     -- { title = 'Inventory', description = 'F2', icon = 'fa fa-archive', iconAnimation = 'spin' }, -- u can multiple it as you wish
 }
+
+-- iconAnimation: 'spin' 'spinPulse' 'spinReverse' 'pulse' 'beat' 'fade' 'beatFade' 'bounce' 'shake'
+-- icon: https://fontawesome.com/v4/icons/ or https://fontawesome.com/icons
