@@ -1,7 +1,7 @@
 Config = {
     Framework = 'esx', -- esx or qb
     Command = 'keymenu', -- the command to open it
-    KeyOpen = 'F1' -- change the key
+    KeyOpen = 'F1' -- change the keys
 }
 
 Config.Keys = {
